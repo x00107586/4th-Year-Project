@@ -1,0 +1,39 @@
+C:\Users\Michael\documents\visual studio 2015\Projects\BotForProject\BotForProject\bin\Bot Application1.dll.config
+C:\Users\Michael\documents\visual studio 2015\Projects\BotForProject\BotForProject\bin\Bot Application1.dll
+C:\Users\Michael\documents\visual studio 2015\Projects\BotForProject\BotForProject\bin\Bot Application1.pdb
+C:\Users\Michael\documents\visual studio 2015\Projects\BotForProject\BotForProject\bin\Autofac.dll
+C:\Users\Michael\documents\visual studio 2015\Projects\BotForProject\BotForProject\bin\Chronic.dll
+C:\Users\Michael\documents\visual studio 2015\Projects\BotForProject\BotForProject\bin\Microsoft.Bot.Builder.dll
+C:\Users\Michael\documents\visual studio 2015\Projects\BotForProject\BotForProject\bin\Microsoft.Bot.Connector.dll
+C:\Users\Michael\documents\visual studio 2015\Projects\BotForProject\BotForProject\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Michael\documents\visual studio 2015\Projects\BotForProject\BotForProject\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Michael\documents\visual studio 2015\Projects\BotForProject\BotForProject\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Michael\documents\visual studio 2015\Projects\BotForProject\BotForProject\bin\Newtonsoft.Json.dll
+C:\Users\Michael\documents\visual studio 2015\Projects\BotForProject\BotForProject\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Michael\documents\visual studio 2015\Projects\BotForProject\BotForProject\bin\System.Net.Http.Formatting.dll
+C:\Users\Michael\documents\visual studio 2015\Projects\BotForProject\BotForProject\bin\System.Web.Http.dll
+C:\Users\Michael\documents\visual studio 2015\Projects\BotForProject\BotForProject\bin\System.Web.Http.WebHost.dll
+C:\Users\Michael\documents\visual studio 2015\Projects\BotForProject\BotForProject\bin\Autofac.xml
+C:\Users\Michael\documents\visual studio 2015\Projects\BotForProject\BotForProject\bin\Microsoft.Bot.Builder.xml
+C:\Users\Michael\documents\visual studio 2015\Projects\BotForProject\BotForProject\bin\Microsoft.Bot.Connector.xml
+C:\Users\Michael\documents\visual studio 2015\Projects\BotForProject\BotForProject\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\Michael\documents\visual studio 2015\Projects\BotForProject\BotForProject\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Michael\documents\visual studio 2015\Projects\BotForProject\BotForProject\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Michael\documents\visual studio 2015\Projects\BotForProject\BotForProject\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Michael\documents\visual studio 2015\Projects\BotForProject\BotForProject\bin\Newtonsoft.Json.xml
+C:\Users\Michael\documents\visual studio 2015\Projects\BotForProject\BotForProject\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Michael\documents\visual studio 2015\Projects\BotForProject\BotForProject\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Michael\documents\visual studio 2015\Projects\BotForProject\BotForProject\bin\System.Net.Http.Formatting.xml
+C:\Users\Michael\documents\visual studio 2015\Projects\BotForProject\BotForProject\bin\System.Web.Http.xml
+C:\Users\Michael\documents\visual studio 2015\Projects\BotForProject\BotForProject\bin\System.Web.Http.WebHost.xml
+C:\Users\Michael\documents\visual studio 2015\Projects\BotForProject\BotForProject\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Michael\documents\visual studio 2015\Projects\BotForProject\BotForProject\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Michael\documents\visual studio 2015\Projects\BotForProject\BotForProject\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Michael\documents\visual studio 2015\Projects\BotForProject\BotForProject\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Michael\documents\visual studio 2015\Projects\BotForProject\BotForProject\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Michael\documents\visual studio 2015\Projects\BotForProject\BotForProject\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Michael\documents\visual studio 2015\Projects\BotForProject\BotForProject\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Michael\documents\visual studio 2015\Projects\BotForProject\BotForProject\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Michael\documents\visual studio 2015\Projects\BotForProject\BotForProject\obj\Debug\BotForProject.csprojResolveAssemblyReference.cache
+C:\Users\Michael\documents\visual studio 2015\Projects\BotForProject\BotForProject\obj\Debug\Bot Application1.dll
+C:\Users\Michael\documents\visual studio 2015\Projects\BotForProject\BotForProject\obj\Debug\Bot Application1.pdb
